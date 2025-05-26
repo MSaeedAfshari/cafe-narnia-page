@@ -2,6 +2,7 @@ import ServiceItem from "@/components/modules/ServiceItem/ServiceItem";
 import React from "react";
 
 export default function Services({ services }) {
+  console.log(services);
   return (
     <div class="container-fluid pt-5">
       <div class="container">
@@ -16,13 +17,15 @@ export default function Services({ services }) {
         </div>
         <div class="row">
           {services.map((item) => {
-            <ServiceItem
-              key={item.id}
-              title={item.title}
-              description={item.description}
-              img={item.image}
-              icon={item.icon}
-            />;
+            return (
+              <ServiceItem
+                key={item.id}
+                title={item.title}
+                description={item.description}
+                img={item.image}
+                icon={item.icon}
+              />
+            );
           })}
         </div>
       </div>

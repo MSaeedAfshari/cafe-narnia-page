@@ -6,7 +6,7 @@ export default function Offer() {
   const addEmail = async (event) => {
     event.preventDefault();
 
-    const response = await fetch("http://localhost:4000/newsletter", {
+    const response = await fetch("http://localhost:4000/newsletters", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
