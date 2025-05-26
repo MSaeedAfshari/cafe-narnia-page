@@ -6,6 +6,7 @@
       "description": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
       "image": "img/menu-1.jpg",
       "price": "5",
+      "type": "hot",
       "off": 0
     },
     {
@@ -14,6 +15,7 @@
       "description": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
       "image": "img/menu-2.jpg",
       "price": "7",
+      "type": "hot",
       "off": 0
     },
     {
@@ -22,6 +24,34 @@
       "description": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
       "image": "img/menu-3.jpg",
       "price": "9",
+      "type": "hot",
+      "off": 0
+    },
+    {
+      "id": 1,
+      "title": "Black Coffee",
+      "description": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "img/menu-1.jpg",
+      "price": "5",
+      "type": "cold",
+      "off": 0
+    },
+    {
+      "id": 2,
+      "title": "Chocolete Coffee",
+      "description": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "img/menu-2.jpg",
+      "price": "7",
+      "type": "cold",
+      "off": 0
+    },
+    {
+      "id": 3,
+      "title": "Coffee With Milk",
+      "description": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "img/menu-3.jpg",
+      "price": "9",
+      "type": "cold",
       "off": 0
     }
   ],
@@ -29,28 +59,28 @@
     {
       "id": 1,
       "title": "Fastest Door Delivery",
-      "image": "/images/serveice-1.jpg",
+      "image": "img/service-1.jpg",
       "description": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
       "icon": "faTruck"
     },
     {
       "id": 2,
       "title": "Fresh Coffee Beans",
-      "image": "/images/serveice-2.jpg",
+      "image": "img/service-2.jpg",
       "description": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
       "icon": "faCoffee"
     },
     {
       "id": 3,
       "title": "Best Quality Coffee",
-      "image": "/images/serveice-3.jpg",
+      "image": "img/service-3.jpg",
       "description": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
       "icon": "faAward"
     },
     {
       "id": 4,
       "title": "Online Table Booking",
-      "image": "/images/serveice-4.jpg",
+      "image": "img/service-4.jpg",
       "description": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
       "icon": "faTable"
     }
