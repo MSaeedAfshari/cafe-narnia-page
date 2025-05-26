@@ -1,0 +1,84 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Black Coffee",
+      "description": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "img/menu-1.jpg",
+      "price": "5",
+      "off": 0
+    },
+    {
+      "id": 2,
+      "title": "Chocolete Coffee",
+      "description": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "img/menu-2.jpg",
+      "price": "7",
+      "off": 0
+    },
+    {
+      "id": 3,
+      "title": "Coffee With Milk",
+      "description": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "image": "img/menu-3.jpg",
+      "price": "9",
+      "off": 0
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Fastest Door Delivery",
+      "image": "/images/serveice-1.jpg",
+      "description": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faTruck"
+    },
+    {
+      "id": 2,
+      "title": "Fresh Coffee Beans",
+      "image": "/images/serveice-2.jpg",
+      "description": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faCoffee"
+    },
+    {
+      "id": 3,
+      "title": "Best Quality Coffee",
+      "image": "/images/serveice-3.jpg",
+      "description": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faAward"
+    },
+    {
+      "id": 4,
+      "title": "Online Table Booking",
+      "image": "/images/serveice-4.jpg",
+      "description": "Sit lorem ipsum et diam elitr est dolor sed duo. Guberg sea et et lorem dolor sed est sit invidunt, dolore tempor diam ipsum takima erat tempor",
+      "icon": "faTable"
+    }
+  ],
+  "newsletters": [
+    {
+      "id": 1,
+      "email": "saeed@gmail.com"
+    },
+    {
+      "id": 2,
+      "email": "saeed@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "username": "Saeed",
+      "productID": 1,
+      "score": "5",
+      "comment": "very delicious"
+    },
+    {
+      "id": 2,
+      "username": "Saeed",
+      "productID": 1,
+      "score": "4.5",
+      "comment": "that was awesome"
+    }
+  ]
+}
