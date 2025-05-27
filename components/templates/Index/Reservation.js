@@ -22,11 +22,6 @@ export default function Reservation() {
         person: person,
       }),
     });
-    console.log(response);
-    setName('')
-    setEmail('')
-    setDate('')
-    setTime('')
   };
 
   return (
